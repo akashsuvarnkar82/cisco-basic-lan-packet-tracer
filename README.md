@@ -133,8 +133,8 @@ show ip interface brief
 ## Project Files
 
 * `basic-lan-network.pkt` — Cisco Packet Tracer project
-* `topology.png` — Network topology screenshot
-* `ping-test.png` — Connectivity test screenshot
+* `topology.JPG` — Network topology screenshot
+* `ping-test.JPG` — Connectivity test screenshot
 
 ---
 
